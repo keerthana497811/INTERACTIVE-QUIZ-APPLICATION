@@ -26,3 +26,15 @@ One of the key advantages of this interactive quiz application is that it provid
 In conclusion, the Interactive Quiz Application using HTML, CSS, and JavaScript demonstrates the effective use of front-end web technologies to build a functional and engaging web application. This project enhances problem-solving skills, improves understanding of JavaScript logic, and provides practical experience in creating interactive web pages. It is a useful and scalable application that can be adapted for various educational and training purposes
 
 #OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0cb48d83-4de0-4f8a-8d94-81ae959b0b78" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0f742fe1-fe07-47d4-92e8-3ea8f42f1330" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7e8ad488-4aea-4d2e-949b-c13e19492420" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/74c9e8d5-30e1-4831-b739-7d12c648d456" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b8c9aee9-9eeb-47b1-a833-7bbed9d2cbca" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4e6f47a6-9d3e-4051-875e-51b70fa7a80b" />
